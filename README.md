@@ -1,6 +1,6 @@
-# 🌿 Suwadharana – Premium Coriander Herbal Tea Brand Website
+# 🌿 SuwaArana – Premium Coriander Herbal Tea Brand Website
 
-A modern, responsive, premium brand website designed for **Suwadharana Coriander Herbal Tea**.
+A modern, responsive, premium brand website designed for **SuwaArana Coriander Herbal Tea**.
 
 ## 🚀 Features
 
