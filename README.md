@@ -73,71 +73,11 @@ Optimized for:
 
 ---
 
-## 📞 Contact Information
-
-### WhatsApp Orders
-
-072 835 8132
-
-### Facebook Page
-
-https://www.facebook.com/Suwa.Arana
-
----
-
-## ⚙ Installation
-
-1. Download the project ZIP package.
-2. Extract the ZIP file.
-3. Open `index.html` in your browser.
-
-OR
-
-Upload the files to:
-
-* cPanel Hosting
-* Hostinger
-* Namecheap
-* GitHub Pages
-* Netlify
-* Vercel
-
----
-
-## 🌍 Deployment
-
-### GitHub Pages
-
-```bash
-git init
-git add .
-git commit -m "Initial Commit"
-git branch -M main
-git remote add origin YOUR_REPOSITORY_URL
-git push -u origin main
-```
-
-Enable GitHub Pages from:
-
-```
-Settings → Pages
-```
-
----
-
 ## 🎨 Brand Identity
 
 **Brand Name:** Suwadharana
 
 **Product:** Coriander Herbal Tea
-
-**Theme:**
-
-* Natural
-* Herbal
-* Wellness
-* Premium
-* Eco-Friendly
 
 ---
 
