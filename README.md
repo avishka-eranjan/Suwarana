@@ -22,7 +22,7 @@ A modern, responsive, premium brand website designed for **SuwaArana Coriander H
 ## 📂 Project Structure
 
 ```
-Suwadharana/
+SuwaArana/
 │
 ├── index.html
 ├── style.css
@@ -75,14 +75,27 @@ Optimized for:
 
 ## 🎨 Brand Identity
 
-**Brand Name:** Suwadharana
+**Brand Name:** SuwaArana
 
-**Product:** Coriander Herbal Tea
+**Product:** Coriander Herbal 
 
+**Category:** Herbal Beverage
+
+**Theme:**
+
+* Natural
+* Wellness
+* Healthy Lifestyle
+* Premium Herbal Products
+  
 ---
 
 ## 📄 License
 
-This project is created exclusively for the Suwadharana Herbal Tea Brand.
+This project is created exclusively for the SuwaArana Herbal Tea Brand.
 
-© 2026 Suwadharana. All Rights Reserved.
+© 2026 SuwaArana. All Rights Reserved.
+
+
+
+
